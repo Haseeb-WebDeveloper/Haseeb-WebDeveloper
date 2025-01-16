@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header]([https://media.licdn.com/dms/image/C5612AQEju1qnUQpkUA/article-cover_image-shrink_720_1280/0/1599741957570?e=2147483647&v=beta&t=rqri5338QVMvbbB9DgbGwkNQR1j5E5gTDyI71ClpG1w](https://res.cloudinary.com/drd4byrmr/image/upload/v1737024359/Full_Stack_MERN_DEVELOPER_l1wbnk.png))
+  ![Header](https://res.cloudinary.com/drd4byrmr/image/upload/v1737024359/Full_Stack_MERN_DEVELOPER_l1wbnk.png)
 
   # Hi there! 👋 I'm Haseeb Ahmed Raza Khan
 
