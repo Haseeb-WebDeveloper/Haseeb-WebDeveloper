@@ -4,7 +4,7 @@
 
   # Hi there! 👋 I'm Haseeb Ahmed Raza Khan
 
-  ### Frontend Developer | React Specialist | JavaScript Enthusiast
+  ### Full Stack Developer | Next.js Expert | UI/SaaS Specialist
 
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="300" />
   
@@ -15,24 +15,48 @@
 
 ## About Me 🚀
 
-I'm a passionate Frontend Developer from Pakistan, specializing in creating engaging web experiences. Currently focused on mastering React and Next.js to build modern, scalable applications.
+I'm a Full Stack Developer specializing in building modern SaaS products and pixel-perfect UIs. With expertise in Next.js and the MERN stack, I create scalable, performance-optimized applications that deliver exceptional user experiences.
 
-- 🔭 Working on expanding my React.js and Next.js expertise
-- 📝 Writing web development articles at [HaseebKhan.online](https://HaseebKhan.online)
-- 📫 Reach me at: web.dev.haseb@gmail.com
-- 💬 Let's talk about JavaScript, React, and modern web development
+- 🎯 Specialized in crafting modern SaaS products and elegant user interfaces
+- ⚡ Expert in Next.js, React, and full-stack JavaScript development
+- 🛠️ Building scalable applications with clean, maintainable code
+- 📝 Sharing insights about modern web development at [HaseebKhan.online](https://HaseebKhan.online)
+- 📫 Open for collaborations: web.dev.haseb@gmail.com
 
-## Tech Stack 💻
+## Expertise 💻
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### State Management & API
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Featured Projects 🌟
+
+- 🛍️ **E-commerce Platform** - Full-stack Next.js 13 application with modern UI and seamless payment integration
+- 💼 **SaaS Dashboard** - Responsive admin dashboard with complex data visualization
+- 🎨 **UI Component Library** - Custom React components with Tailwind CSS and Framer Motion
+- 🚀 **Real-time Chat Application** - Built with WebSocket and MongoDB for instant messaging
 
 ## GitHub Stats 📊
 
