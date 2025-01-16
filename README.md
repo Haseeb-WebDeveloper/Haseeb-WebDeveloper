@@ -39,25 +39,17 @@ I'm a Full Stack Developer specializing in building modern SaaS products and pix
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### State Management & API
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Featured Projects 🌟
 
-- 🛍️ **E-commerce Platform** - Full-stack Next.js 13 application with modern UI and seamless payment integration
-- 💼 **SaaS Dashboard** - Responsive admin dashboard with complex data visualization
-- 🎨 **UI Component Library** - Custom React components with Tailwind CSS and Framer Motion
-- 🚀 **Real-time Chat Application** - Built with WebSocket and MongoDB for instant messaging
-
+- 🤖 **AI Assignment Manager** - Fulll Stack Nextjs Web based Software For Univercities
+- 👌 **Automation Software** - Another Nextjs Automation Software Handle Notion, Slack, Google Drive etc
+- 🤔 **Askify** - Working on SaaS Product Comming Soon
+- ⭐ **Blog Website** - Have build Blog website with admin Panel
+- ❤️ **Too Website** - I have build 3 tool website. Check out on Portfolio
 ## GitHub Stats 📊
 
 <div align="center">
