@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer who builds powerful SaaS products, blazing-fast web apps, and beautiful UIs. I specialize in the modern JavaScript ecosystem — especially Next.js and the MERN stack — and love turning complex problems into simple, scalable solutions.
+ I'm a full stack developer who doesn't just build websites, but builds digital leverage. I've helped startups, agencies, and business leaders turn ideas into high converting platforms with scalable code, seamless UX, and performance driven design.
 
 - 🎯 Focused on performance-driven SaaS platforms & business tools  
 - ⚙️ Expert in full-stack JavaScript: Next.js, React, Node, Prisma, MongoDB  
@@ -70,13 +70,6 @@ I'm a Full Stack Developer who builds powerful SaaS products, blazing-fast web a
 - [Indian Master](https://indiamasters.co.in)
 - [Enzig Studio](https://www.enzigstudio.com)
 - [Laura Biagiotti Parfums](https://www.laurabiagiottiparfums.com/)
-
-### 👤 Portfolio Websites
-- [My Portfolio](https://haseebkhan.online)
-- [Indian Portfolio](https://dev-haseebkhanfirst.pantheonsite.io/)
-- [Mitra Bani](https://mbportfolio.pro/)
-- [Wasif Ali](https://wasif-khan.netlify.app/)
-- [Emo Groep](https://emo-groep.vercel.app/)
 
 ### 🤖 AI & SaaS Products
 - [AI SEO Tool](https://ai-seo-tool.netlify.app/)
