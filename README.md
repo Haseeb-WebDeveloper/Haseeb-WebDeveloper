@@ -8,9 +8,11 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="300" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-ahmed-raza-khan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://HaseebKhan.online)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haseeb-WebDeveloper)
+<p align="center">
+  <a href="https://linkedin.com/in/haseeb-ahmed-raza-khan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://HaseebKhan.online"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/Haseeb-WebDeveloper"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -18,7 +20,7 @@
 
 ## About Me
 
-I'm a Full Stack Web Developer who builds powerful SaaS products, blazing-fast web apps, and beautiful UIs. I specialize in the modern JavaScript ecosystem — especially Next.js and the MERN stack — and love turning complex problems into simple, scalable solutions.
+I'm a Full Stack Developer who builds powerful SaaS products, blazing-fast web apps, and beautiful UIs. I specialize in the modern JavaScript ecosystem — especially Next.js and the MERN stack — and love turning complex problems into simple, scalable solutions.
 
 - 🎯 Focused on performance-driven SaaS platforms & business tools  
 - ⚙️ Expert in full-stack JavaScript: Next.js, React, Node, Prisma, MongoDB  
@@ -50,28 +52,43 @@ I'm a Full Stack Web Developer who builds powerful SaaS products, blazing-fast w
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects Showcase
 
-- 🧠 **AI Assignment Manager**  
-  AI-powered web platform for universities to manage assignments, grading & feedback — built with Next.js, Prisma & Vercel.  
-  [Live Preview](https://ai-grading.netlify.app/)
+### 🏢 Client & Agency Websites
+- https://figmenta.com/
+- https://studio.figmenta.com/
+- https://productions.figmenta.com/
+- https://live.figmenta.com/
+- https://uptraction.com/
 
-- ⚙️ **Automation Software**  
-  A tool that integrates Notion, Slack, Google Drive, and more for automated business operations.  
-  [GitHub](https://github.com/Haseeb-WebDeveloper/Fuzzie-Production)
+### 💼 Business Websites
+- [Isodomi](https://isodomi.nl)
+- [Duradomi](https://duradomi.nl)
+- [Renodomi](https://renodomi.nl)
+- [Sho Elite](https://shoelite.club)
+- [Seaside Transportation](https://www.seaside-transportation.com)
+- [Indian Master](https://indiamasters.co.in)
+- [Enzig Studio](https://www.enzigstudio.com)
+- [Laura Biagiotti Parfums](https://www.laurabiagiottiparfums.com/)
 
-- 💬 **Askify**  
-  A smart SaaS platform (in progress) for real-time AI-based expert Q&A.  
-  [Repo](https://github.com/Haseeb-WebDeveloper/ask)
+### 👤 Portfolio Websites
+- [My Portfolio](https://haseebkhan.online)
+- [Indian Portfolio](https://dev-haseebkhanfirst.pantheonsite.io/)
+- [Mitra Bani](https://mbportfolio.pro/)
+- [Wasif Ali](https://wasif-khan.netlify.app/)
+- [Emo Groep](https://emo-groep.vercel.app/)
 
-- 📚 **Full Stack Blog Platform**  
-  Blog CMS with admin dashboard, SEO, image upload, and complete CRUD.  
-  [Live](https://gamingmasterhub.online/)
+### 🤖 AI & SaaS Products
+- [AI SEO Tool](https://ai-seo-tool.netlify.app/)
+- [Sentriq AI](https://sentriq-ai.netlify.app/)
+- [AI Assignment Manager (In Progress)](http://assess-gpt.com/)
+- [Askify Platform (In Progress)](https://github.com/Haseeb-WebDeveloper/ask)
 
-- 🛠 **Tool Websites**  
-  - [JSON Formatter](https://jsonformatteronline.site/)  
-  - [URL Shortener](https://shortener.haseebkhan.online/)  
-  - [GitIgnore Generator](https://gitignore-generator.netlify.app/)
+### 🧰 Development Tools
+- [GitIgnore Generator](https://gitignore-generator.netlify.app/)
+- [JSON Formatter](https://jsonformatteronline.site/)
+- [URL Shortener](https://shortener.haseebkhan.online/)
+- [Automation Software](https://github.com/Haseeb-WebDeveloper/Fuzzie-Production)
 
 ---
 
@@ -88,11 +105,10 @@ I'm a Full Stack Web Developer who builds powerful SaaS products, blazing-fast w
 ## 📡 Let's Connect
 
 <div align="center">
-
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/haseeb-ahmed-raza-khan)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/haseeb.ahmed.raza.khan)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/haseebahmedrazakhan)
-
+  <a href="https://linkedin.com/in/haseeb-ahmed-raza-khan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/haseeb.ahmed.raza.khan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/haseebahmedrazakhan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/haseeb-ahmed-raza-khan"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </div>
 
 ---
