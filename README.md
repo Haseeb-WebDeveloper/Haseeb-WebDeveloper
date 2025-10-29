@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/haseeb-ahmed-raza-khan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://Haseebahmedrazakahn.online"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.haseebahmedrazakhan.online/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/Haseeb-WebDeveloper"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -25,7 +25,7 @@
 - 🎯 Focused on performance-driven SaaS platforms & business tools  
 - ⚙️ Expert in full-stack JavaScript: Next.js, React, Node, Prisma, MongoDB  
 - 💡 Creator of prebuilt AI chatbot and automation tools  
-- 📌 Portfolio: [Haseebahmedrazakahn.online](https://www.haseebahmedrazakhan.online/)  
+- 📌 Portfolio: [haseebahmedrazakhan.online/](https://www.haseebahmedrazakhan.online/)  
 - 📬 Let's collaborate: web.dev.haseb@gmail.com
 
 ---
